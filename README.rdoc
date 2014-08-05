@@ -1,5 +1,13 @@
 == README
 
+How to do stuff:
+
+* Create a database named securecore
+* Load up everything from database_snapshot.sql
+* Run "rake db:migrate" from the command line in the project root
+* Run "rails c"
+* Check stuff out, fix as needed
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
